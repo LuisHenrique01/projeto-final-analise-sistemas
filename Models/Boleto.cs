@@ -7,6 +7,7 @@ namespace Projeto_Final.Models
 {
     public class Boleto
     {
+        public int Id { get; set; }
         public string codigo { get; set; }
         public bool confirma()
         {

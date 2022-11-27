@@ -9910,19 +9910,19 @@
     ]
   },
   "packageFolders": {
-    "/home/luis/.nuget/packages/": {}
+    "C:\\Users\\luisr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Projeto Final.csproj",
+      "projectUniqueName": "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\Projeto Final.csproj",
       "projectName": "Projeto Final",
-      "projectPath": "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Projeto Final.csproj",
-      "packagesPath": "/home/luis/.nuget/packages/",
-      "outputPath": "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/obj/",
+      "projectPath": "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\Projeto Final.csproj",
+      "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/luis/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -9994,7 +9994,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

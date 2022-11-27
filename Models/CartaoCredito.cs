@@ -7,7 +7,8 @@ namespace Projeto_Final.Models
 {
     public class CartaoCredito
     {
-        public string codigo { get; set; }
+        public int Id { get; set; }
+        public string numero { get; set; }
         public bool autorizaDebito()
         {
             Random randNum = new Random();
