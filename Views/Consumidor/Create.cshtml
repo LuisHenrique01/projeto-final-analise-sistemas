@@ -24,7 +24,8 @@
             </div>
             <div class="form-group">
                 <label asp-for="Senha" class="control-label"></label>
-                <input asp-for="Senha" class="form-control" />
+                <input asp-for="Senha" class="form-control" type="password" id="password"/>
+                <input type="checkbox" onclick="showPassword()" class="input-group-addon"> Show Password <br>
                 <span asp-validation-for="Senha" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -40,4 +41,14 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function showPassword() {
+            var x = document.getElementById("password");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+                x.type = "password";
+            }
+        }
+    </script>
 }
