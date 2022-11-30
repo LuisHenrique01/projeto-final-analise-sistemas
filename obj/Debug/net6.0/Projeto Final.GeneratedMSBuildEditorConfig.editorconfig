@@ -8,1289 +8,157 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_Final
 build_property.RootNamespace = Projeto_Final
-build_property.ProjectDir = C:\Users\luisr\OneDrive\Documentos\Pessoal\Análise e projeto de sistemas\projeto-final-analise-sistemas\
+build_property.ProjectDir = c:\Users\luisr\OneDrive\Documentos\Pessoal\Análise e projeto de sistemas\projeto-final-analise-sistemas\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\luisr\OneDrive\Documentos\Pessoal\Análise e projeto de sistemas\projeto-final-analise-sistemas
+build_property.MSBuildProjectDirectory = c:\Users\luisr\OneDrive\Documentos\Pessoal\Análise e projeto de sistemas\projeto-final-analise-sistemas
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ControllerGenerator/ApiControllerWithActions.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpQ29udHJvbGxlcldpdGhBY3Rpb25zLmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ControllerGenerator/ApiControllerWithContext.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpQ29udHJvbGxlcldpdGhDb250ZXh0LmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ControllerGenerator/ApiEmptyController.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQXBpRW1wdHlDb250cm9sbGVyLmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ControllerGenerator/ControllerWithActions.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcQ29udHJvbGxlcldpdGhBY3Rpb25zLmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ControllerGenerator/EmptyController.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcRW1wdHlDb250cm9sbGVyLmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ControllerGenerator/MvcControllerWithContext.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXENvbnRyb2xsZXJHZW5lcmF0b3JcTXZjQ29udHJvbGxlcldpdGhDb250ZXh0LmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Data/ApplicationDbContext.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XERhdGFcQXBwbGljYXRpb25EYkNvbnRleHQuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Data/ApplicationUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XERhdGFcQXBwbGljYXRpb25Vc2VyLmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.AccessDenied.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5BY2Nlc3NEZW5pZWQuY3MuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5BY2Nlc3NEZW5pZWQuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ConfirmEmail.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWwuY3MuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ConfirmEmail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWwuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ConfirmEmailChange.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWxDaGFuZ2UuY3MuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ConfirmEmailChange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ExternalLogin.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5FeHRlcm5hbExvZ2luLmNzLmNzaHRtbA==
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ExternalLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5FeHRlcm5hbExvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ForgotPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZC5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ForgotPasswordConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ForgotPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Lockout.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2Nrb3V0LmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Lockout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2Nrb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Login.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.LoginWith2fa.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGgyZmEuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.LoginWith2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGgyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.LoginWithRecoveryCode.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.LoginWithRecoveryCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Logout.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dvdXQuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Register.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3Rlci5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.RegisterConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3RlckNvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ResendEmailConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ResendEmailConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ResetPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ResetPasswordConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account.ResetPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account._StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Account._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcQWNjb3VudC5fVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ChangePassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkNoYW5nZVBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ChangePassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkNoYW5nZVBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.DeletePersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRlbGV0ZVBlcnNvbmFsRGF0YS5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.DeletePersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRlbGV0ZVBlcnNvbmFsRGF0YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.Disable2fa.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRpc2FibGUyZmEuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.Disable2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRpc2FibGUyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.DownloadPersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRvd25sb2FkUGVyc29uYWxEYXRhLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.DownloadPersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRvd25sb2FkUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.Email.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVtYWlsLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.Email.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVtYWlsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.EnableAuthenticator.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVuYWJsZUF1dGhlbnRpY2F0b3IuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.EnableAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVuYWJsZUF1dGhlbnRpY2F0b3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ExternalLogins.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkV4dGVybmFsTG9naW5zLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ExternalLogins.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkV4dGVybmFsTG9naW5zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.GenerateRecoveryCodes.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkdlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.GenerateRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkdlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.Index.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkluZGV4LmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ManageNavPages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLk1hbmFnZU5hdlBhZ2VzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.PersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlBlcnNvbmFsRGF0YS5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.PersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlBlcnNvbmFsRGF0YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ResetAuthenticator.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlJlc2V0QXV0aGVudGljYXRvci5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ResetAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlJlc2V0QXV0aGVudGljYXRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.SetPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNldFBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.SetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ShowRecoveryCodes.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNob3dSZWNvdmVyeUNvZGVzLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.ShowRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNob3dSZWNvdmVyeUNvZGVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.TwoFactorAuthentication.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage.TwoFactorAuthentication.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage._Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage._ManageNav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9NYW5hZ2VOYXYuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage._StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9TdGF0dXNNZXNzYWdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Account/Manage/Account.Manage._ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Error.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEVycm9yLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/ScaffoldingReadme.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFNjYWZmb2xkaW5nUmVhZG1lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/SupportPages._CookieConsentPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFN1cHBvcnRQYWdlcy5fQ29va2llQ29uc2VudFBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/SupportPages._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFN1cHBvcnRQYWdlcy5fVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/SupportPages._ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XFN1cHBvcnRQYWdlcy5fVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5XF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Data/ApplicationDbContext.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXERhdGFcQXBwbGljYXRpb25EYkNvbnRleHQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Data/ApplicationUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXERhdGFcQXBwbGljYXRpb25Vc2VyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/IdentityHostingStartup.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXElkZW50aXR5SG9zdGluZ1N0YXJ0dXAuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.AccessDenied.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5BY2Nlc3NEZW5pZWQuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5BY2Nlc3NEZW5pZWQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ConfirmEmail.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWwuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ConfirmEmail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ConfirmEmailChange.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWxDaGFuZ2UuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ConfirmEmailChange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWxDaGFuZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ExternalLogin.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5FeHRlcm5hbExvZ2luLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ExternalLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5FeHRlcm5hbExvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ForgotPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZC5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ForgotPasswordConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ForgotPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Lockout.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2Nrb3V0LmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Lockout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2Nrb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Login.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.LoginWith2fa.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGgyZmEuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.LoginWith2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGgyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.LoginWithRecoveryCode.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.LoginWithRecoveryCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Logout.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dvdXQuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Register.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3Rlci5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.RegisterConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3RlckNvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ResendEmailConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ResendEmailConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ResetPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ResetPasswordConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account.ResetPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account._StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Account._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcQWNjb3VudC5fVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ChangePassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkNoYW5nZVBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ChangePassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkNoYW5nZVBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.DeletePersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRlbGV0ZVBlcnNvbmFsRGF0YS5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.DeletePersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRlbGV0ZVBlcnNvbmFsRGF0YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.Disable2fa.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRpc2FibGUyZmEuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.Disable2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRpc2FibGUyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.DownloadPersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRvd25sb2FkUGVyc29uYWxEYXRhLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.DownloadPersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRvd25sb2FkUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.Email.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVtYWlsLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.Email.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVtYWlsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.EnableAuthenticator.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVuYWJsZUF1dGhlbnRpY2F0b3IuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.EnableAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVuYWJsZUF1dGhlbnRpY2F0b3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ExternalLogins.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkV4dGVybmFsTG9naW5zLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ExternalLogins.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkV4dGVybmFsTG9naW5zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.GenerateRecoveryCodes.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkdlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.GenerateRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkdlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.Index.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkluZGV4LmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ManageNavPages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLk1hbmFnZU5hdlBhZ2VzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.PersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlBlcnNvbmFsRGF0YS5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.PersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlBlcnNvbmFsRGF0YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ResetAuthenticator.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlJlc2V0QXV0aGVudGljYXRvci5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ResetAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlJlc2V0QXV0aGVudGljYXRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.SetPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNldFBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.SetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ShowRecoveryCodes.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNob3dSZWNvdmVyeUNvZGVzLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.ShowRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNob3dSZWNvdmVyeUNvZGVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.TwoFactorAuthentication.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage.TwoFactorAuthentication.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage._Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage._ManageNav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9NYW5hZ2VOYXYuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage._StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9TdGF0dXNNZXNzYWdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Account/Manage/Account.Manage._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Error.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEVycm9yLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/ScaffoldingReadme.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFNjYWZmb2xkaW5nUmVhZG1lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/SupportPages._CookieConsentPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFN1cHBvcnRQYWdlcy5fQ29va2llQ29uc2VudFBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/SupportPages._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFN1cHBvcnRQYWdlcy5fVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/SupportPages._ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXFN1cHBvcnRQYWdlcy5fVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap3/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXAzXF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Data/ApplicationDbContext.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XERhdGFcQXBwbGljYXRpb25EYkNvbnRleHQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Data/ApplicationUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XERhdGFcQXBwbGljYXRpb25Vc2VyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/IdentityHostingStartup.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XElkZW50aXR5SG9zdGluZ1N0YXJ0dXAuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.AccessDenied.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5BY2Nlc3NEZW5pZWQuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5BY2Nlc3NEZW5pZWQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ConfirmEmail.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWwuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ConfirmEmail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ConfirmEmailChange.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWxDaGFuZ2UuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ConfirmEmailChange.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Db25maXJtRW1haWxDaGFuZ2UuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ExternalLogin.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5FeHRlcm5hbExvZ2luLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ExternalLogin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5FeHRlcm5hbExvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ForgotPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZC5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ForgotPasswordConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ForgotPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Lockout.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2Nrb3V0LmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Lockout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2Nrb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Login.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.LoginWith2fa.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGgyZmEuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.LoginWith2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGgyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.LoginWithRecoveryCode.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.LoginWithRecoveryCode.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Logout.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dvdXQuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5Mb2dvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Register.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3Rlci5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.RegisterConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3RlckNvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.RegisterConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ResendEmailConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ResendEmailConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ResetPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ResetPasswordConfirmation.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account.ResetPasswordConfirmation.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account._StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Account._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcQWNjb3VudC5fVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ChangePassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkNoYW5nZVBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ChangePassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkNoYW5nZVBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.DeletePersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRlbGV0ZVBlcnNvbmFsRGF0YS5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.DeletePersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRlbGV0ZVBlcnNvbmFsRGF0YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.Disable2fa.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRpc2FibGUyZmEuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.Disable2fa.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRpc2FibGUyZmEuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.DownloadPersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRvd25sb2FkUGVyc29uYWxEYXRhLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.DownloadPersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkRvd25sb2FkUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.Email.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVtYWlsLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.Email.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVtYWlsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.EnableAuthenticator.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVuYWJsZUF1dGhlbnRpY2F0b3IuY3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.EnableAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkVuYWJsZUF1dGhlbnRpY2F0b3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ExternalLogins.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkV4dGVybmFsTG9naW5zLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ExternalLogins.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkV4dGVybmFsTG9naW5zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.GenerateRecoveryCodes.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkdlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.GenerateRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkdlbmVyYXRlUmVjb3ZlcnlDb2Rlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.Index.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkluZGV4LmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLkluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ManageNavPages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLk1hbmFnZU5hdlBhZ2VzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.PersonalData.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlBlcnNvbmFsRGF0YS5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.PersonalData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlBlcnNvbmFsRGF0YS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ResetAuthenticator.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlJlc2V0QXV0aGVudGljYXRvci5jcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ResetAuthenticator.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlJlc2V0QXV0aGVudGljYXRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.SetPassword.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNldFBhc3N3b3JkLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.SetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ShowRecoveryCodes.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNob3dSZWNvdmVyeUNvZGVzLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.ShowRecoveryCodes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlNob3dSZWNvdmVyeUNvZGVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.TwoFactorAuthentication.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage.TwoFactorAuthentication.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLlR3b0ZhY3RvckF1dGhlbnRpY2F0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage._Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage._ManageNav.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9NYW5hZ2VOYXYuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage._StatusMessage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9TdGF0dXNNZXNzYWdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Account/Manage/Account.Manage._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEFjY291bnRcTWFuYWdlXEFjY291bnQuTWFuYWdlLl9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Error.cs.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEVycm9yLmNzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/ScaffoldingReadme.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFNjYWZmb2xkaW5nUmVhZG1lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/SupportPages._CookieConsentPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFN1cHBvcnRQYWdlcy5fQ29va2llQ29uc2VudFBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/SupportPages._ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFN1cHBvcnRQYWdlcy5fVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/SupportPages._ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XFN1cHBvcnRQYWdlcy5fVmlld1N0YXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Identity_Versioned/Bootstrap4/_LoginPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXElkZW50aXR5X1ZlcnNpb25lZFxCb290c3RyYXA0XF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/MvcLayout/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE12Y0xheW91dFxFcnJvci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/MvcLayout/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE12Y0xheW91dFxfTGF5b3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/CreatePageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxDcmVhdGVQYWdlTW9kZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/DeletePageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZWxldGVQYWdlTW9kZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/DetailsPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxEZXRhaWxzUGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/EditPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFZGl0UGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/Empty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFbXB0eS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/EmptyPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxFbXB0eVBhZ2VNb2RlbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/ListPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxMaXN0UGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvclxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/CreatePageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xDcmVhdGVQYWdlTW9kZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/DeletePageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZWxldGVQYWdlTW9kZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/DetailsPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xEZXRhaWxzUGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/EditPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFZGl0UGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/Empty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFbXB0eS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/EmptyPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xFbXB0eVBhZ2VNb2RlbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/ListPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xMaXN0UGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap3/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwM1xfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/CreatePageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxDcmVhdGVQYWdlTW9kZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/DeletePageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZWxldGVQYWdlTW9kZWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/DetailsPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxEZXRhaWxzUGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/EditPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFZGl0UGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/Empty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFbXB0eS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/EmptyPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxFbXB0eVBhZ2VNb2RlbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxMaXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/ListPageModel.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxMaXN0UGFnZU1vZGVsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/RazorPageGenerator_Versioned/Bootstrap4/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFJhem9yUGFnZUdlbmVyYXRvcl9WZXJzaW9uZWRcQm9vdHN0cmFwNFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Startup/ReadMe.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFN0YXJ0dXBcUmVhZE1lLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/Startup/Startup.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFN0YXJ0dXBcU3RhcnR1cC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/Empty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcRW1wdHkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/Empty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcRW1wdHkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap3/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/Empty.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcRW1wdHkuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcTGlzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Templates/ViewGenerator_Versioned/Bootstrap4/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFZpZXdHZW5lcmF0b3JfVmVyc2lvbmVkXEJvb3RzdHJhcDRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Home/Index.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Home/Privacy.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/Error.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/_ViewImports.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/_ViewStart.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/_Layout.cshtml]
+[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-5zmr2z0ndb

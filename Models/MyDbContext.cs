@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Projeto_Final.Models;
 
 namespace Projeto_Final.Models
 {
@@ -10,5 +11,6 @@ namespace Projeto_Final.Models
         public DbSet<Pedido> Pedido { get; set; }
         public DbSet<Boleto> Boleto { get; set; }
         public DbSet<CartaoCredito> CartaoCredito { get; set; }
+        public DbSet<Projeto_Final.Models.Pagamento> Pagamento { get; set; }
     }
 }
