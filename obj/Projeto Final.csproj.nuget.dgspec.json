@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\Projeto Final.csproj": {}
+    "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Projeto Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\Projeto Final.csproj": {
+    "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Projeto Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\Projeto Final.csproj",
+        "projectUniqueName": "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Projeto Final.csproj",
         "projectName": "Projeto Final",
-        "projectPath": "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\Projeto Final.csproj",
-        "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisr\\OneDrive\\Documentos\\Pessoal\\Análise e projeto de sistemas\\projeto-final-analise-sistemas\\obj\\",
+        "projectPath": "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Projeto Final.csproj",
+        "packagesPath": "/home/luis/.nuget/packages/",
+        "outputPath": "/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/luis/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[6.0.1, )"
             },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.1, )"
@@ -90,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }

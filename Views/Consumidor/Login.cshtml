@@ -1,0 +1,58 @@
+@model Projeto_Final.Models.Consumidor
+
+@{
+    ViewData["Title"] = "Página de login";
+}
+
+@if (ViewData["error"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewData["error"].ToString()
+    </div>
+}
+
+<div class="container">
+    <form asp-route-returnurl="@ViewData["ReturnUrl"]" method="post">
+        <div class="row justify-content-center">
+            <div class="form-group col-4">
+                <label for="email">Endereço de email</label>
+                <input asp-for="Email" type="email" class="form-control" id="email" placeholder="Seu email">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="form-group col-4">
+                <label for="password">Senha</label>
+                <input asp-for="Senha" type="password" class="form-control" id="password" placeholder="Senha">
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="form-group form-check col-4">
+                <input type="checkbox" class="form-check-input" id="mostrarSenha" onclick="showPassword()">
+                <label class="form-check-label" for="mostrarSenha">Mostrar Senha <br></label>
+                <span asp-validation-for="Senha" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="form-group col-4">
+                <button type="submit" value="Create" class="btn btn-primary mb-4">Entrar</button>
+            </div>
+        </div>
+    </form>
+    <div class="text-center">
+        <a href="#!">Me cadastrar</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function showPassword() {
+            var x = document.getElementById("password");
+            if (x.type === "password") {
+                x.type = "text";
+            } else {
+                x.type = "password";
+            }
+        }
+    </script>
+}

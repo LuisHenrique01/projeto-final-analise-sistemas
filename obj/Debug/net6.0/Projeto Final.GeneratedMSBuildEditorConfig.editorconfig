@@ -8,157 +8,161 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projeto_Final
 build_property.RootNamespace = Projeto_Final
-build_property.ProjectDir = c:\Users\luisr\OneDrive\Documentos\Pessoal\Análise e projeto de sistemas\projeto-final-analise-sistemas\
+build_property.ProjectDir = /home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\luisr\OneDrive\Documentos\Pessoal\Análise e projeto de sistemas\projeto-final-analise-sistemas
+build_property.MSBuildProjectDirectory = /home/luis/Documentos/Analise e projeto de sistemas/Projeto Final
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXENyZWF0ZS5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Boleto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9sZXRvL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXERlbGV0ZS5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Boleto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9sZXRvL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXERldGFpbHMuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Boleto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9sZXRvL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXEVkaXQuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Boleto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9sZXRvL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Boleto/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRvXEluZGV4LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Boleto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9sZXRvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xDcmVhdGUuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/CartaoCredito/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydGFvQ3JlZGl0by9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xEZWxldGUuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/CartaoCredito/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydGFvQ3JlZGl0by9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xEZXRhaWxzLmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/CartaoCredito/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydGFvQ3JlZGl0by9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xFZGl0LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/CartaoCredito/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydGFvQ3JlZGl0by9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/CartaoCredito/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydGFvQ3JlZGl0b1xJbmRleC5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/CartaoCredito/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydGFvQ3JlZGl0by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxDcmVhdGUuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Consumidor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uc3VtaWRvci9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxEZWxldGUuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Consumidor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uc3VtaWRvci9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxEZXRhaWxzLmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Consumidor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uc3VtaWRvci9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxFZGl0LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Consumidor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uc3VtaWRvci9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Consumidor/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtaWRvclxJbmRleC5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Consumidor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uc3VtaWRvci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Consumidor/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uc3VtaWRvci9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXENyZWF0ZS5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXERlbGV0ZS5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pagamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXERldGFpbHMuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pagamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXEVkaXQuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pagamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pagamento/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnYW1lbnRvXEluZGV4LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pagamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXENyZWF0ZS5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pagamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnYW1lbnRvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXERlbGV0ZS5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXERldGFpbHMuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEVkaXQuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pedido/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Pedido/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXEluZGV4LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pedido/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Pedido/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZWxldGUuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Produto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZXRhaWxzLmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Produto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xFZGl0LmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Produto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Produto/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Produto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHV0by9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/luisr/OneDrive/Documentos/Pessoal/Análise e projeto de sistemas/projeto-final-analise-sistemas/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-5zmr2z0ndb
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/luis/Documentos/Analise e projeto de sistemas/Projeto Final/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-89n6eye0nj

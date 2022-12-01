@@ -3,6 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -13,10 +15,12 @@ namespace Projeto_Final.Controllers
     public class ConsumidorController : Controller
     {
         private readonly MyDbContext _context;
+        private readonly ILogger<HomeController> _logger;
 
-        public ConsumidorController(MyDbContext context)
+        public ConsumidorController(MyDbContext context, ILogger<HomeController> logger)
         {
             _context = context;
+            _logger = logger;
         }
 
         // GET: Consumidor
@@ -148,6 +152,32 @@ namespace Projeto_Final.Controllers
         private bool ConsumidorExists(int id)
         {
             return _context.Consumidor.Any(e => e.Id == id);
+        }
+
+        [HttpGet]
+        [AllowAnonymous]
+        public async Task<IActionResult> Login(string returnUrl = null)
+        {
+            ViewData["ReturnUrl"] = returnUrl;
+            return View();
+        }
+
+        [HttpPost]
+        [AllowAnonymous]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login([Bind("Email,Senha")] Consumidor model, string returnUrl = null)
+        {
+            ViewData["ReturnUrl"] = returnUrl;
+
+            var consumidor = await _context.Consumidor.FirstOrDefaultAsync(
+                m => m.Email == model.Email & m.Senha == model.Senha
+            );
+            if (consumidor == null)
+            {
+                ModelState.AddModelError(string.Empty, "Usário ou senha incorretos.");
+                ViewData["error"] = "Usário ou senha incorretos.";
+            }
+            return View(model);
         }
     }
 }

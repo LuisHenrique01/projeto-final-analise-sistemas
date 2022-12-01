@@ -11,8 +11,8 @@ using Projeto_Final.Models;
 namespace Projeto_Final.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20221130180658_AddPagamentoId")]
-    partial class AddPagamentoId
+    [Migration("20221130225123_Pagamento")]
+    partial class Pagamento
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -76,6 +76,35 @@ namespace Projeto_Final.Migrations
                     b.ToTable("Consumidor");
                 });
 
+            modelBuilder.Entity("Projeto_Final.Models.Pagamento", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int?>("BoletoId")
+                        .HasColumnType("int");
+
+                    b.Property<int?>("CartaoCreditoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("PedidoId")
+                        .HasColumnType("int");
+
+                    b.Property<double>("Valor")
+                        .HasColumnType("double");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("BoletoId");
+
+                    b.HasIndex("CartaoCreditoId");
+
+                    b.HasIndex("PedidoId");
+
+                    b.ToTable("Pagamento");
+                });
+
             modelBuilder.Entity("Projeto_Final.Models.Pedido", b =>
                 {
                     b.Property<int>("Id")
@@ -118,6 +147,29 @@ namespace Projeto_Final.Migrations
                     b.HasIndex("PedidoId");
 
                     b.ToTable("Produto");
+                });
+
+            modelBuilder.Entity("Projeto_Final.Models.Pagamento", b =>
+                {
+                    b.HasOne("Projeto_Final.Models.Boleto", "Boleto")
+                        .WithMany()
+                        .HasForeignKey("BoletoId");
+
+                    b.HasOne("Projeto_Final.Models.CartaoCredito", "CartaoCredito")
+                        .WithMany()
+                        .HasForeignKey("CartaoCreditoId");
+
+                    b.HasOne("Projeto_Final.Models.Pedido", "Pedido")
+                        .WithMany()
+                        .HasForeignKey("PedidoId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Boleto");
+
+                    b.Navigation("CartaoCredito");
+
+                    b.Navigation("Pedido");
                 });
 
             modelBuilder.Entity("Projeto_Final.Models.Pedido", b =>

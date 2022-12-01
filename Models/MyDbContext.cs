@@ -11,6 +11,6 @@ namespace Projeto_Final.Models
         public DbSet<Pedido> Pedido { get; set; }
         public DbSet<Boleto> Boleto { get; set; }
         public DbSet<CartaoCredito> CartaoCredito { get; set; }
-        public DbSet<Projeto_Final.Models.Pagamento> Pagamento { get; set; }
+        public DbSet<Pagamento> Pagamento { get; set; }
     }
 }
