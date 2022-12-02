@@ -1,12 +1,7 @@
 #nullable disable
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Projeto_Final.Models;
 
@@ -26,6 +21,7 @@ namespace Projeto_Final.Controllers
         // GET: Consumidor
         public async Task<IActionResult> Index()
         {
+            _logger.LogInformation(HttpContext.Session.GetString("Email"));
             return View(await _context.Consumidor.ToListAsync());
         }
 
@@ -159,7 +155,11 @@ namespace Projeto_Final.Controllers
         public async Task<IActionResult> Login(string returnUrl = null)
         {
             ViewData["ReturnUrl"] = returnUrl;
-            return View();
+            if (returnUrl == null)
+            {
+                return View();
+            }
+            return RedirectToPage(returnUrl);
         }
 
         [HttpPost]
@@ -176,8 +176,14 @@ namespace Projeto_Final.Controllers
             {
                 ModelState.AddModelError(string.Empty, "Usário ou senha incorretos.");
                 ViewData["error"] = "Usário ou senha incorretos.";
+                return View(model);
             }
-            return View(model);
+            else
+            {
+                HttpContext.Session.SetString("Email", consumidor.Email);
+            }
+            _logger.LogInformation("REDIRECT");
+            return RedirectToAction("Index", "Produto");
         }
     }
 }

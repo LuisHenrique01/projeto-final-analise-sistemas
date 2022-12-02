@@ -1,6 +1,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -13,10 +14,15 @@ namespace Projeto_Final.Controllers
     public class ProdutoController : Controller
     {
         private readonly MyDbContext _context;
+        private readonly ILogger<HomeController> _logger;
+        private NumberFormatInfo _provider = new NumberFormatInfo();
 
-        public ProdutoController(MyDbContext context)
+        public ProdutoController(MyDbContext context, ILogger<HomeController> logger)
         {
             _context = context;
+            _logger = logger;
+            _provider.NumberDecimalSeparator = ".";
+            _provider.NumberGroupSeparator = ",";
         }
 
         // GET: Produto
@@ -53,10 +59,14 @@ namespace Projeto_Final.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Nome,Descricao,ValorProduto")] Produto produto)
+        public async Task<IActionResult> Create(IFormCollection form)
         {
+            Produto produto = new Produto();
             if (ModelState.IsValid)
             {
+                produto.Nome = form["Nome"];
+                produto.Descricao = form["Descricao"];
+                produto.ValorProduto = Convert.ToDouble(form["ValorProduto"], _provider);
                 _context.Add(produto);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -85,12 +95,18 @@ namespace Projeto_Final.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Descricao,ValorProduto")] Produto produto)
+        public async Task<IActionResult> Edit(int id, IFormCollection form)
         {
-            if (id != produto.Id)
+            if (id != form["Id"])
             {
                 return NotFound();
             }
+
+            Produto produto = new Produto();
+            produto.Id = Convert.ToInt32(form["Id"]);
+            produto.Nome = form["Nome"];
+            produto.Descricao = form["Descricao"];
+            produto.ValorProduto = Convert.ToDouble(form["ValorProduto"], _provider);
 
             if (ModelState.IsValid)
             {
