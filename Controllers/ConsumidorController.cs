@@ -163,7 +163,6 @@ namespace Projeto_Final.Controllers
         }
 
         [HttpPost]
-        [AllowAnonymous]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Login([Bind("Email,Senha")] Consumidor model, string returnUrl = null)
         {

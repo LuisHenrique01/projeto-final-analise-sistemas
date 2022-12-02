@@ -6,16 +6,19 @@ namespace Projeto_Final.Controllers;
 
 public class HomeController : Controller
 {
+    private readonly MyDbContext _context;
     private readonly ILogger<HomeController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public HomeController(MyDbContext context, ILogger<HomeController> logger)
     {
+        _context = context;
         _logger = logger;
     }
 
     public IActionResult Index()
     {
-        return View();
+        ViewData["UserEmail"] = HttpContext.Session.GetString("Email");
+        return View(_context.Produto.ToList());
     }
 
     public IActionResult Privacy()
