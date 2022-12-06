@@ -11,6 +11,8 @@ namespace Projeto_Final.Controllers
     {
         private readonly MyDbContext _context;
         private readonly ILogger<HomeController> _logger;
+        [TempData]
+        public string UserName { get; set; }
 
         public ConsumidorController(MyDbContext context, ILogger<HomeController> logger)
         {
@@ -21,7 +23,6 @@ namespace Projeto_Final.Controllers
         // GET: Consumidor
         public async Task<IActionResult> Index()
         {
-            _logger.LogInformation(HttpContext.Session.GetString("Email"));
             return View(await _context.Consumidor.ToListAsync());
         }
 
@@ -56,13 +57,22 @@ namespace Projeto_Final.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Nome,Email,Senha")] Consumidor consumidor)
         {
+            consumidor.Carrinho = new Carrinho();
             if (ModelState.IsValid)
             {
                 _context.Add(consumidor);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                var consumidorPosCreate = await _context.Consumidor.FirstOrDefaultAsync(
+                    m => m.Email == consumidor.Email
+                );
+                var carrinho = await _context.Carrinho.FirstOrDefaultAsync(
+                    m => m.ConsumidorId == consumidorPosCreate.Id
+                );
+                HttpContext.Session.SetString("Email", consumidorPosCreate.Email);
+                HttpContext.Session.SetInt32("UserId", consumidorPosCreate.Id);
+                HttpContext.Session.SetInt32("CartId", carrinho.Id);
             }
-            return View(consumidor);
+            return RedirectToAction("Index", "Home");
         }
 
         // GET: Consumidor/Edit/5
@@ -177,12 +187,14 @@ namespace Projeto_Final.Controllers
                 ViewData["error"] = "Usário ou senha incorretos.";
                 return View(model);
             }
-            else
-            {
-                HttpContext.Session.SetString("Email", consumidor.Email);
-            }
-            _logger.LogInformation("REDIRECT");
-            return RedirectToAction("Index", "Produto");
+            var carrinho = await _context.Carrinho.FirstOrDefaultAsync(
+                m => m.ConsumidorId == consumidor.Id
+            );
+            HttpContext.Session.SetString("Email", consumidor.Email);
+            HttpContext.Session.SetInt32("UserId", consumidor.Id);
+            HttpContext.Session.SetInt32("CartId", carrinho.Id);
+            UserName = consumidor.Nome;
+            return RedirectToAction("Index", "Home");
         }
     }
 }

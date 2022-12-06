@@ -1,12 +1,13 @@
 ﻿@model IEnumerable<Projeto_Final.Models.Produto>
 @{
     ViewData["Title"] = "Página inicial";
+    var CartId = @ViewData["CartId"];
 }
 
 <div class="text-center">
     <h1 class="display-4">Loja do Luis</h1>
-    @if ( @ViewData["UserEmail"] != null){
-        <h3>Bem vindo @ViewData["UserEmail"].ToString()</h3>
+    @if ( TempData.Peek("UserName") != null ){
+        <h3>Bem vindo @TempData.Peek("UserName").ToString()</h3>
     }
     <div class="row">
         @foreach (var item in Model) {
@@ -18,7 +19,7 @@
                     <p class="card-text">R$ @Html.DisplayFor(modelItem => item.ValorProduto)</p>
                 </div>
                 <div class="card-footer text-muted">
-                    <a href="#" class="btn btn-primary">Adicionar ao carrinho</a>
+                    <a href="@Url.Action("Edit", "Carrinho", new { id = item.Id })" class="btn btn-primary">Adicionar ao carrinho</a>
                 </div>
             </div>
         </div>

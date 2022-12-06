@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/Projeto_Final.styles.css" asp-append-version="true" />
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
+                <i class='fas fa-car' style='font-size:36px;color:rgb(126, 40, 248)'></i>
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Projeto Final</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -32,6 +34,11 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Termos de privacidade</a>
                         </li>
                     </ul>
+                    <span class="navbar-text">
+                        <a class="btn btn-primary" href="@Url.Action("Create", "Pedido")" role="button">
+                            <i class='fas fa-shopping-cart'></i>
+                        </a>
+                    </span>
                 </div>
             </div>
         </nav>

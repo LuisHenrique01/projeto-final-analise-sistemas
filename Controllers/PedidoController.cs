@@ -13,10 +13,12 @@ namespace Projeto_Final.Controllers
     public class PedidoController : Controller
     {
         private readonly MyDbContext _context;
+        private readonly ILogger<HomeController> _logger;
 
-        public PedidoController(MyDbContext context)
+        public PedidoController(MyDbContext context, ILogger<HomeController> logger)
         {
             _context = context;
+            _logger = logger;
         }
 
         // GET: Pedido
@@ -46,23 +48,31 @@ namespace Projeto_Final.Controllers
         // GET: Pedido/Create
         public IActionResult Create()
         {
-            return View();
+            int? id = HttpContext.Session.GetInt32("CartId");
+            if (id == null)
+            {
+                return RedirectToAction("Login", "Consumidor");
+            }
+            var carrinho = _context.Carrinho.Where(m => m.Id == id).Include("Produtos").FirstOrDefault();
+            return View(carrinho.Produtos);
         }
 
-        // POST: Pedido/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id")] Pedido pedido)
+        public async Task<IActionResult> ConfirmeCreate()
         {
-            if (ModelState.IsValid)
+            int? id = HttpContext.Session.GetInt32("CartId");
+            if (id == null)
             {
-                _context.Add(pedido);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Login", "Consumidor");
             }
-            return View(pedido);
+            Carrinho carrinho = _context.Carrinho.Where(m => m.Id == id).Include("Produtos")
+                                .Include("Consumidor").FirstOrDefault();
+
+            Pedido pedido = new Pedido();
+            pedido.Produtos = carrinho.Produtos;
+            pedido.Consumidor = carrinho.Consumidor;
+            _context.Add(pedido);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Pedido/Edit/5

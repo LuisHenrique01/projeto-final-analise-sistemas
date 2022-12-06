@@ -17,7 +17,6 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewData["UserEmail"] = HttpContext.Session.GetString("Email");
         return View(_context.Produto.ToList());
     }
 
