@@ -29,9 +29,10 @@ namespace Projeto_Final.Controllers
         // GET: Consumidor/Details/5
         public async Task<IActionResult> Details(int? id)
         {
+            id = HttpContext.Session.GetInt32("UserId");
             if (id == null)
             {
-                return NotFound();
+                return RedirectToAction("Login", "Consumidor");
             }
 
             var consumidor = await _context.Consumidor

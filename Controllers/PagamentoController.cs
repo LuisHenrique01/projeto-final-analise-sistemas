@@ -33,11 +33,24 @@ namespace Projeto_Final.Controllers
                 return NotFound();
             }
 
-            var pagamento = await _context.Pagamento
+            var pagamento = await _context.Pagamento.Include("CartaoCredito").Include("Boleto")
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (pagamento == null)
             {
                 return NotFound();
+            }
+            if (pagamento.CartaoCredito != null)
+            {
+                ViewData["formaPg"] = "Cartão de crédito";
+                var num = pagamento.CartaoCredito.numero;
+                ViewData["numero"] = num.Substring(1, num.Length > 4 ? 4 : num.Length - 1) + "****";
+                ViewData["status"] = pagamento.CartaoCredito.autorizaDebito() ? "Aprovado" : "Aguardando aprovação";
+            }
+            else
+            {
+                ViewData["formaPg"] = "Boleto bancario";
+                ViewData["numero"] = pagamento.Boleto.codigo;
+                ViewData["status"] = pagamento.Boleto.confirma() ? "Aprovado" : "Aguardando aprovação";
             }
 
             return View(pagamento);

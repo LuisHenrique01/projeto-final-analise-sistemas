@@ -19,13 +19,5 @@ namespace Projeto_Final.Models
             }
             return total;
         }
-        public void incluiProduto(Produto prod)
-        {
-            Produtos.Add(prod);
-        }
-        public void excluiProduto(Produto prod)
-        {
-            Produtos.Remove(prod);
-        }
     }
 }

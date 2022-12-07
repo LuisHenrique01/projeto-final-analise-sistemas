@@ -13,8 +13,9 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <i class='fas fa-car' style='font-size:36px;color:rgb(126, 40, 248)'></i>
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Projeto Final</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                   Amazon da Deep Web
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -22,20 +23,17 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Pedido" asp-action="Index">Meus Pedidos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Consumidor" asp-action="Index">Consumidores</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Produto" asp-action="Index">Produtos</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Consumidor" asp-action="Details" asp-route-id="0">Meus Dados</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Termos de privacidade</a>
                         </li>
                     </ul>
                     <span class="navbar-text">
-                        <a class="btn btn-primary" href="@Url.Action("Create", "Pedido")" role="button">
+                        <a class="btn btn-primary btn-lg" href="@Url.Action("Create", "Pedido")" role="button">
                             <i class='fas fa-shopping-cart'></i>
                         </a>
                     </span>

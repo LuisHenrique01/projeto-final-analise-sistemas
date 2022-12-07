@@ -3,14 +3,14 @@
     ViewData["Title"] = "Create";
 }
 
-<div class="container text-center">
-    <h4>Pedido</h4>
+<div class="container text-left">
+    <h3>Meu pedido</h3>
     <div class="row">
         <div class="col">
             <div class="row">
                 @foreach (var item in Model) {
-                    <div class="col-md-4">
-                        <div class="card" style="max-height: 25rem;margin-top: 25px">
+                    <div class="col-md-6">
+                        <div class="card" style="max-height: 30rem;margin-top: 30px">
                             <div class="card-body">
                                 <h5 class="card-title">@Html.DisplayFor(modelItem => item.Nome)</h5>
                                 <p class="card-text">@Html.DisplayFor(modelItem => item.Descricao)</p>
@@ -25,39 +25,53 @@
             </div>
         </div>
         <div class="col">
-            <h3>Olá @TempData.Peek("UserName").ToString()</h3>
-            <p>
-                Obrigado por comprar na loja do Luis<br>
-                Verifique seu pedido e vamos e pressione em finalizar.
-            </p>
             <div class="row">
-                <div class="col-md-4 align-self-center">
-                    <form asp-route-returnurl="@ViewData["ReturnUrl"]" method="post">
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="opcao1" checked>
-                            <label class="form-check-label" for="exampleRadios1">
-                                Radio padrão
+                <h4>Olá @TempData.Peek("UserName").ToString()</h4>
+                <p>
+                    Obrigado por comprar na loja do Luis<br>
+                    Verifique seu pedido, escolha a forma de pagamento e pressione em finalizar.
+                </p>
+            </div>
+            <div class="row">
+                <div class="form-row align-items-center">
+                    <form asp-action="Create" class="form-inline" method="post">
+                        <div class="form-check" style="margin-bottom:10px;">
+                            <input class="form-check-input" type="radio" name="formaPagamento" id="boleto" value="boleto" checked>
+                            <label class="form-check-label" for="boleto">
+                                Pagar no boleto
                             </label>
                         </div>
-                        <div class="form-check">
-                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="opcao2">
-                            <label class="form-check-label" for="exampleRadios2">
-                                Segundo radio padrão
+                        <div class="form-check" style="margin-bottom:10px;">
+                            <input class="form-check-input" type="radio" name="formaPagamento" id="cartao" value="cartao">
+                            <label class="form-check-label" for="cartao">
+                                Pagar no cartão
                             </label>
+                        </div>
+                        <div class="form-group col-md-6" id="numero" style="display:none;margin-bottom:10px;">
+                            <input type="text" id="numero" name="numero" class="form-control" placeholder="Número do cartão">
                         </div>
                         <div class="row justify-content-center">
-                            <div class="form-group col-4">
-                                <button type="submit" value="Create" class="btn btn-primary mb-4">Entrar</button>
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-primary">Finalizar pedido</button>
                             </div>
                         </div>
                     </form>
                 </div>
             </div>
-            <a href="@Url.Action("ConfirmeCreate", "Pedido")" class="btn btn-primary">Finalizar pedido</a>
         </div>
     </div>
 </div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        cartao = document.getElementById("cartao")
+        boleto = document.getElementById("boleto")
+        cartao.addEventListener("click", () => {
+            document.getElementById("numero").style.display = 'block'
+        })
+        boleto.addEventListener("click", () => {
+            document.getElementById("numero").style.display = 'none'
+        })
+    </script>
 }

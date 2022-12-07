@@ -24,7 +24,15 @@ namespace Projeto_Final.Controllers
         // GET: Pedido
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Pedido.ToListAsync());
+            int? id = HttpContext.Session.GetInt32("UserId");
+            if (id == null)
+            {
+                return RedirectToAction("Login", "Consumidor");
+            }
+            Consumidor consumidor = await _context.Consumidor.FindAsync(id);
+
+            return View(await _context.Pedido.Where(m => m.Consumidor == consumidor).Include("Produtos")
+                              .ToListAsync());
         }
 
         // GET: Pedido/Details/5
@@ -57,7 +65,9 @@ namespace Projeto_Final.Controllers
             return View(carrinho.Produtos);
         }
 
-        public async Task<IActionResult> ConfirmeCreate()
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(IFormCollection form)
         {
             int? id = HttpContext.Session.GetInt32("CartId");
             if (id == null)
@@ -68,14 +78,41 @@ namespace Projeto_Final.Controllers
                                 .Include("Consumidor").FirstOrDefault();
 
             Pedido pedido = new Pedido();
+            Pagamento pagamento = new Pagamento();
             pedido.Produtos = carrinho.Produtos;
             pedido.Consumidor = carrinho.Consumidor;
             _context.Add(pedido);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+
+            if (form["formaPagamento"] == "cartao")
+            {
+
+                CartaoCredito cartaoCredito = new CartaoCredito()
+                {
+                    numero = form["numero"]
+                };
+                _context.Add(cartaoCredito);
+                await _context.SaveChangesAsync();
+                pagamento.CartaoCredito = cartaoCredito;
+            }
+            else
+            {
+                Random rnd = new Random();
+                Boleto boleto = new Boleto()
+                {
+                    codigo = $"{rnd.Next()} {rnd.Next()} {rnd.Next()} {rnd.Next()}"
+                };
+                _context.Add(boleto);
+                await _context.SaveChangesAsync();
+                pagamento.Boleto = boleto;
+            }
+            pagamento.Pedido = pedido;
+            pagamento.Valor = pedido.getValorPedidos();
+            _context.Add(pagamento);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Details", "Pagamento", new { id = pagamento.Id });
         }
 
-        // GET: Pedido/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)

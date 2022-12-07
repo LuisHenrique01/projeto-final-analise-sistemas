@@ -4,8 +4,7 @@
     var CartId = @ViewData["CartId"];
 }
 
-<div class="text-center">
-    <h1 class="display-4">Loja do Luis</h1>
+<div class="container text-left">
     @if ( TempData.Peek("UserName") != null ){
         <h3>Bem vindo @TempData.Peek("UserName").ToString()</h3>
     }
